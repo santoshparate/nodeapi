@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "My Node API Which interact with database or static json files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learn",
+    "Rest",
+    "API"
+  ],
+  "author": "FullStack Developers",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
