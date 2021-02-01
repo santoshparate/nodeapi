@@ -1,0 +1,1 @@
+console.log('This file is to authenticate app user');
